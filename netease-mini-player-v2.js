@@ -556,7 +556,7 @@ class NeteaseMiniPlayer {
         this.updateVolumeDisplay();
     }
     async apiRequest(endpoint, params = {}) {
-        const baseUrl = 'https://api.hypcvgm.top/NeteaseMiniPlayer/nmp.php';
+        const baseUrl = 'https://netease-api.flowmoon.cn';
         const queryString = new URLSearchParams(params).toString();
         const url = `${baseUrl}${endpoint}${queryString ? '?' + queryString : ''}`;
         try {
