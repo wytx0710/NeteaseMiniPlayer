@@ -1,5 +1,5 @@
 /**
- * 播放器配置对象类型定义
+ * 播放器配置对象类型定义666
  * @typedef {Object} PlayerConfig
  * @property {boolean} embed - 是否嵌入模式（隐藏部分控制，适配容器）
  * @property {boolean} autoplay - 是否在初始化后自动播放
