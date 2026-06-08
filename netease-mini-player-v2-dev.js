@@ -1,22 +1,4 @@
 /**
- * [NMPv2] NeteaseMiniPlayer v2 JavaScript
- * Lightweight Player Component Based on NetEase Cloud Music API
- * 
- * Copyright 2025 BHCN STUDIO & 北海的佰川（ImBHCN[numakkiyu]）
- * 
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- * 
- *     http://www.apache.org/licenses/LICENSE-2.0
- * 
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-/**
  * 播放器配置对象类型定义
  * @typedef {Object} PlayerConfig
  * @property {boolean} embed - 是否嵌入模式（隐藏部分控制，适配容器）
